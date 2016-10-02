@@ -1,4 +1,4 @@
-### Gem-Store
+### Gem-Store app
 
 "Shaping up with Angular.js" [Code School](https://www.codeschool.com/) Course.
 
